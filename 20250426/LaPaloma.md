@@ -13,3 +13,11 @@
 还是回上海吃PINTXOS吧，露天阳台还是很舒服的。
 
 地址：西营盘皇后大道西189号西浦1楼
+
+
+![清爽的海鲜饭](LaPaloma1.jpg) 
+![炭烤八爪鱼也不错](LaPaloma2.jpg) 
+![火腿绝了](LaPaloma3.jpg) 
+![青口贝中规中矩](LaPaloma4.jpg) 
+![鸡排不错很juicy](LaPaloma5.jpg) 
+![很标准的甜品](LaPaloma6.jpg) 
