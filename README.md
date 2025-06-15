@@ -17,6 +17,7 @@
 1. [探店 · 徐汇 - 超有意思、超出片的秘鲁风味西班牙菜](20250614/Colca.md)
 2. [探店 · 徐汇 - 小狗咖啡和糖水真的太可爱啦](20250511/OKDoggie.md)
 3. [探店 · 徐汇 - LaCreperie老牌可丽饼好货不便宜](20250309/LaCreperie.md)
+4. [探店 · 徐汇 - 博朴：好吃管饱的法餐](20250221/popot.md)
 #### 静安
 1. [探店 · 静安 - ŌRTENSIA/Patisserie/Cafe芭菲真好吃](20250430/ORTENSIA.md)
 2. [探店 · 静安 - 谢大牛馆：卤牛肉星人狂喜😋](20250413/XieDaNiuGuan.md)
@@ -48,7 +49,8 @@
 
 # 西餐
 ## 法菜
-1. [探店 · 徐汇 - LaCreperie老牌可丽饼好货不便宜](20250309/LaCreperie.md)
+1. [探店 · 徐汇 - 博朴：好吃管饱的法餐](20250221/popot.md)
+2. [探店 · 徐汇 - LaCreperie老牌可丽饼好货不便宜](20250309/LaCreperie.md)
 ## 意大利菜
 1. [探店 · 闵行 - beam叔叔披萨：平靓正的现烤披萨超好吃](20250411/UncleBeam.md)
 ## 西班牙菜
