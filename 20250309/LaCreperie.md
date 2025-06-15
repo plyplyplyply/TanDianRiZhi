@@ -8,5 +8,5 @@
 
 甜品的香蕉可丽饼也不错，饼皮软嫩，焦糖、巧克力酱和奶油都不是很甜，很清爽，个人觉得比papito的好吃😋（虽然papito也很好吃，就是 nutella 榛子巧克力酱给太慷慨有点腻
 
-![](LaCreperie1.jpg)
-![](LaCreperie2.jpg)
+![三文鱼鸡蛋可丽饼](LaCreperie2.jpg)
+![香蕉可丽饼](LaCreperie1.jpg)
